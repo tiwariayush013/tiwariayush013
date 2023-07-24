@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ayush tiwari
+- 👋 Hi, I’m ayush
 - 👀 I’m interested in web develpment . 
 - 🌱 I’m currently Studing in Btech CSE specialization in Artificial INtelligence & machine learning,
 - 💞️ I’m looking to collaborate on ...
